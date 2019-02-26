@@ -1,9 +1,15 @@
 body
-{font-display: white; background: black; font-family: verdana;
+{ font-display: white;
+  background: black;
+  font-family: verdana;
 }
 h1{color: white
-
 }
 p
 {color: white
+}
+div
+{
+	margin-top: 10px;
+	margin-left: 20px;
 }
