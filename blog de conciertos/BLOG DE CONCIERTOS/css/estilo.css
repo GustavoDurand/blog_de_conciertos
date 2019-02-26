@@ -1,15 +1,16 @@
 body
-{ font-display: white;
+{ color:white;
   background: black;
   font-family: verdana;
 }
-h1{color: white
-}
-p
-{color: white
+h1{ font: arial
 }
 div
 {
 	margin-top: 10px;
 	margin-left: 20px;
+}
+a
+{
+	color: inherit;
 }
